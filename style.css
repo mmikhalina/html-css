@@ -1,0 +1,41 @@
+.main{
+    margin-left: 35%;
+    color: white;
+}
+li{
+    list-style-type: none;
+    color: #e3c3c3;
+    font-size: 25px;
+
+}
+.button1{
+   margin-left: 50%;
+   margin-top: 0px;
+}
+body {
+  background-color: black;
+}
+h1 {
+   text-align: center;
+   color: white;
+   text-shadow: 2px 2px black;
+   }
+h2 {
+	text-align: center;
+	color: aqua;
+	text-transform: uppercase;
+}   
+
+#photo {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 500px;
+  margin-left: 500px;
+}
+.text{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    line-height: 0.8;
+    text-shadow: 2px 2px red;
+}
